@@ -23,7 +23,7 @@
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
 
-![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/Diagram.drawio.png)
+![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/Diagram1.drawio.png)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”

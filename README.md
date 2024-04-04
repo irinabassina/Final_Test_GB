@@ -5,10 +5,12 @@
    - Объединить содержимое этих двух файлов в один и просмотреть его содержимое.
    - Переименовать получившийся файл в "Human Friends"
      
-![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image01.png))
+![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image01.png)
 
 2. Работа с директориями в Linux
    - Создать новую директорию и переместить туда файл "Human Friends".
+
+![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image02.png)
   
 3. Работа с MySQL в Linux. “Установить MySQL на вашу вычислительную машину ”
    - Подключить дополнительный репозиторий MySQL и установить один из пакетов из этого репозитория.

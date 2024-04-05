@@ -303,6 +303,6 @@ LEFT JOIN pets p ON p.Id = hm.Kind_id;
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведения животного заполнены все поля.
 
-Решения к заданиям 13-15: 
+Решение к заданиям 13-15 в [программном коде](https://github.com/irinabassina/Final_Test_GB/tree/main/java_final_gb/src/kz/bassina)
 
 

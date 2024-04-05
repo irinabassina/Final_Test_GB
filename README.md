@@ -254,6 +254,8 @@ FROM animals WHERE Birthday BETWEEN ADDDATE(curdate(), INTERVAL -3 YEAR) AND ADD
  
 SELECT * FROM young_animal;
 ```
+![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image10.png)
+
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
 прошлую принадлежность к старым таблицам.
 ``` sql
@@ -301,6 +303,6 @@ LEFT JOIN pets p ON p.Id = hm.Kind_id;
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведения животного заполнены все поля.
 
-
+Решения к заданиям 13-15: 
 
 

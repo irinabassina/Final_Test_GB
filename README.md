@@ -14,10 +14,32 @@
   
 3. Работа с MySQL в Linux. “Установить MySQL на вашу вычислительную машину ”
    - Подключить дополнительный репозиторий MySQL и установить один из пакетов из этого репозитория.
+     ![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image03.png)
+     ![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image04.png)
+     ![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image05.png)
+     ![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image06.png)
+     ![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image07.png)
+     
 4. Управление deb-пакетами
    - Установить и затем удалить deb-пакет, используя команду `dpkg`.
+     
+     ![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image08.png)
+     ![Image alt](https://github.com/irinabassina/Final_Test_GB/blob/main/images/image09.png)
+     
 5. История команд в терминале Ubuntu
    - Сохранить и выложить историю ваших терминальных команд в Ubuntu.
+  
+     Задание 1.
+cat > Pets
+cat > Pack_animals
+ls
+cat Pets Pack_animals > Animals
+ls
+cat Animals
+mv Animals Human_Friends
+ls 
+
+
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные

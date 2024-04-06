@@ -60,7 +60,7 @@ ls
 ls Zoo/*
 
 ### Задание 3.
-udo wget https://dev.mysql.com/get/mysql-apt-config_0.8.26-1_all.deb  
+sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.26-1_all.deb  
 
 sudo dpkg -i mysql-apt-config_0.8.26-1_all.deb    
 
